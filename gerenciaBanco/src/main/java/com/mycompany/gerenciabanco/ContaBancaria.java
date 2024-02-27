@@ -1,7 +1,3 @@
-/**
- * @Wesley Mikael Oliveira da Silva
- */
-
 package com.mycompany.gerenciabanco;
 public class ContaBancaria {
     private String nome;
